@@ -19,5 +19,6 @@ bin-release/
 /.classpath
 /.project
 /chromedriver
+/target
 *.iml
 *.class
